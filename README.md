@@ -1,4 +1,5 @@
 # Review-javascript
-<h1>Para relembrar alguns conceitos importantes<h1/>
+<h1>Repositório com alguns conceitos importantes de javascript<h1/>
 <p>1-Tipos de dados<p/>
 <p>2-Operador ternário<p/>
+<p>3- funções built javascript<p/>
