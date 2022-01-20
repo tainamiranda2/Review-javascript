@@ -4,3 +4,5 @@
 <p>2- Operador ternário<p/>
 <p>3- Funções built javascript<p/>
 <p>4- Estrutura de controle<p/>
+<p>5- Estrutura de repetição<p/>
+
