@@ -9,4 +9,5 @@ let objetoB = objetoA;
 console.log(objetoA==objetoB)
 
 objetoB.pontos="5"
+
 console.log(objetoA.pontos)
