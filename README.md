@@ -1,5 +1,7 @@
 # Review-javascript
-<h1>Repositório sobre conceitos importantes de javascript<h1/>
+<h1>Repositório sobre conceitos importantes de javascrip e htmlt<h1/>
+ 
+ <h2>Javascript</h2>
  
 <p>1- Tipos de dados<p/>
 <p>2- Operador ternário<p/>
@@ -11,6 +13,6 @@
 <p>8- Objeto</p>
 <p>9- Eventos</p>
 
- <h1>Repositório sobre conceitos importantes de html<h1/>
-  <p>Elementos</p>
-  <p>Links</p>
+ <h2>Html<h2/>
+  <p>1-Elementos</p>
+  <p>2-Links</p>
