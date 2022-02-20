@@ -19,3 +19,8 @@
 <p>2- Links<p/>
 <p>3- Listas<p/>
 <p>4- Tabelas simples e complexas<p/>
+
+<h2>Css<h2/>
+
+<p>1- Seletores<p/>
+<p>2- Box model</p>
