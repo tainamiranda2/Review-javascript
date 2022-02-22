@@ -4,12 +4,17 @@
 }
 h1{
   color: green;
-  
 }
+
 #container{
   width: 40px;
   color: red;
 }
+
 .meio{
   color: yellow;
+}
+
+#my-title strong{
+  color: rebeccapurple;
 }

@@ -1,4 +1,4 @@
-//pop, push, shift
+//pop, push, shift, unshift
 let nomes=["Matheus",  "Lucas", "Pedro"];
 //remove
 let elementoRemovido=nomes.pop()
@@ -14,5 +14,5 @@ console.log("nome colocado:" +nomes)
 let removerPrimeiro=nomes.shift()
 console.log("Nome no inicio removido:" +nomes)
 
-
-
+let adiciona=nomes.unshift("marcos")
+console.log("Nome adicionado:"+nomes)
