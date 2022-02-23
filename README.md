@@ -10,8 +10,9 @@
 <p>5- Estrutura de repetição<p/>
 <p>6- Funções<p/>
 <p>7- Array<p/>
-<p>8- Objeto<p/>
-<p>9- Eventos<p/>
+<p>8- Métodos de manipulação de array</p>
+<p>9- Objeto<p/>
+<p>10- Eventos<p/>
 
  <h2>Html<h2/>
   
