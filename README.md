@@ -24,3 +24,5 @@
 
 <p>1- Seletores<p/>
 <p>2- Box model</p>
+<p>3- Box sizing</p>
+<p>4- Display-Block e inline</p>

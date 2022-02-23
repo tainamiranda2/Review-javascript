@@ -1,0 +1,10 @@
+{/*top, left, bottom, right* , só pega em elemento do tipo block*/}
+
+h1{
+  border: 1px solid blue;
+  width:100px;
+  height: 100px;
+}
+h2{
+  margin-bottom:8px;
+}
