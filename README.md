@@ -27,3 +27,6 @@
 <p>2- Box model</p>
 <p>3- Box sizing</p>
 <p>4- Display-Block e inline</p>
+<p>5- Margin</p>
+<p>6- Padding</p>
+<p>7- Bordas</p>

@@ -1,0 +1,7 @@
+h1{
+  border-top: red solid 1em;
+}
+h2{
+  border:double green 5px;
+  outline: yellow 5px solid;
+}
