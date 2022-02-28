@@ -1,0 +1,11 @@
+
+h1{
+  height: 100px;
+  border: 7px dashed red;
+background-color:rgb(55,10,60);
+}
+h2{
+height: 100px;
+background: linear-gradient(white, teal)
+}
+

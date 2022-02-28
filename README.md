@@ -30,3 +30,5 @@
 <p>5- Margin</p>
 <p>6- Padding</p>
 <p>7- Bordas</p>
+<p>8- Cores</p>
+<p>9- Background</p>
