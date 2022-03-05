@@ -20,7 +20,7 @@
 <p>2- Links<p/>
 <p>3- Listas<p/>
 <p>4- Tabelas simples e complexas<p/>
-<p>Vídeo, áudio e frame</p>
+<p>5- Vídeo, áudio e frame</p>
 <h2>Css<h2/>
 
 <p>1- Seletores<p/>
@@ -32,3 +32,4 @@
 <p>7- Bordas</p>
 <p>8- Cores</p>
 <p>9- Background</p>
+<p>10- Posicionamento</p>
