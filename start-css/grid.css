@@ -1,0 +1,30 @@
+body{
+  background: gray;
+  margin: 0;
+  height: 100vh;
+  display: grid;
+  grid-template-areas: 
+    "h1 h1"
+    "h2 h2" 
+    "p p";
+  grid-template-rows: 30px 1fr 40px;
+  grid-template-columns: 1fr 80px;
+}
+h1{
+ grid-area: h1;
+  background:  blue;
+
+}
+h2{
+   grid-area: h2;
+  background:  green;
+}
+p{
+   grid-area: p;
+background:  red;
+}
+span{
+   grid-area: span;
+  background:  pink;
+
+}
