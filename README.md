@@ -1,5 +1,5 @@
 # Review-javascript
-<h1>Repositório sobre conceitos importantes de javascrip e htmlt<h1/>
+<h1>Repositório sobre conceitos importantes de javascript e htmlt<h1/>
  
  <h2>Javascript<h2/>
  
