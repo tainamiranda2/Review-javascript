@@ -1,0 +1,1 @@
+//Prototype também podem sem chamadoos de clases.
