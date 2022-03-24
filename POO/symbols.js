@@ -2,18 +2,14 @@
 
 class Moto {
   constructor(Marca, Motor, cor){
+    
     this.Motor=3.0;
     this.cor=cor;
   }
-  Marca(){
-    console.log('Honda')
-  }
+ 
 }
 
-Moto.prototype.cor='preto';
+let Motor= Symbol();
+Moto.prototype[Motor]=2.6;
 
-let MotoCG= new Moto('2.0', 'Azul');
-
-console.log(MotoCG.Marca);
-
-MotoCG.Marca();
+console.log(Moto.prototype[Motor])
