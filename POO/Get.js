@@ -20,4 +20,4 @@ class Camisa {
 }
 
 let Marca= new Camisa('John John', 'Verde');
-console.log(Marca)
+console.log(Marca);
