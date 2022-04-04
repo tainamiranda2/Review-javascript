@@ -1,36 +1,19 @@
+let x = prompt("á?");
 
-/*var arr = [9, 9, 111, 2, 3, 4, 4, 5, 7];
-var sorted_arr = arr.slice().sort(); // Ordenando o array. 
-var results = [];
-for (var i = 0; i < sorted_arr.length - 1; i++) {
-    if (sorted_arr[i + 1] == sorted_arr[i]) {
-        results.push(sorted_arr[i]);
-      console.log( results.push(sorted_arr[i]))
-    }
-}*/
-let vetorA = [1, 3, 5, 7, 9, 3, 11, 7, 1, 11];
-console.log('VetorA original ==>',vetorA)
-let vetorB = [];
+//let x = prompt("Digite um valor?")
 
+if (x >=0 && x <= 25.0000 ){
+    document.write("Intervalo [0,25]" );
+  
+} else if(x >= 25.0000 && x <=50.0000000){
+         document.write("Intervalo (25,50]");
+  
+} else if( x >=50.0000000 && x <=75.0000000){
+         document.write("Intervalo (50,75]");
 
-//retirando elementos iguais do vetorA[];
-vetorA.forEach((elemem =>{
-    if(!vetorB.includes(elemem)){
-     console.log( vetorB.push(elemem))
-    }
-}));
-
-/*
-var arr = [1,2,2,3,4,5,5,5,6,7,7,8,9,10,10];
-
-function arrayNovo(arr){
-    var tmp = [];
-    for(var i = 0; i < arr.length; i++){
-        if(tmp.indexOf(arr[i]) == -1){
-        tmp.push(arr[i]);
-        }
-    }
-    return tmp;
+} else if( x >=75.000000000 && x <=100.0000000000){
+      document.write("Intervalo (75,100]");     
+} else{
+         document.write("Fora de intervalo");
 }
 
-console.log(arrayNovo(arr));*/
