@@ -1,4 +1,4 @@
-//uma forma de escreve função e usava com framworks
+//uma forma de escreve função e usada com framworks
 
 let consoleTeste = () =>{
   console.log("Ola")
