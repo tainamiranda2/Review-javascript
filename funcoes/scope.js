@@ -8,4 +8,4 @@ function createThink(subject){
 //valor de dentro da funcao
 console.log(createThink(subject))
 //valor de fora da funcao
-console.log(subject)
+console.log(subject);
