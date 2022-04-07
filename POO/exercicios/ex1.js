@@ -1,29 +1,26 @@
-//conta no banco
-
-class Conta {
-  //tipoConta: 'Poupança',
-constructor(saldo)  {
-this.saldo=saldo;
-}
-  //metodo aumentar o saldo
-  Deposito (valor) {
-   this.saldo+=valor;
-  }
-  //metodo diminuir o saldo
-  Saque(valor){
-    this.saldo-=valor;
+//compras
+class Carrinho {
+  constructor(itens, qtd, valort){
+    this.itens=itens;
+    this.qtd;
+    this.valort=valort;
   }
 }
 
-//iniciando com valor
-//intaciaddo
-let conta = new Conta(2000);
+//itens no carrinho
+let carrinho = new Carrinho([
+  {
+    id:01,
+    nome:'Camisa',
+    qtd:1,
+    preco:20
+  },
+  {
+    id:02,
+    nome:'Calça',
+    qtd:1,
+    preco:50
+  }
+],3,120)
 
-conta.Deposito(1000);
-
-console.log("O valor atual:",conta.saldo);
-
-conta.Saque(50);
-
-console.log("O valor apos o saque", conta.saldo)
-
+console.log(carrinho)
