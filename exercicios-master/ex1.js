@@ -1,5 +1,5 @@
 //notas de um jeito diferente
-let score =90;
+
 function getScore(score){
   
 
@@ -11,18 +11,23 @@ let scoreF=score<=60 && score <=10;
 
 let scoreFinal;
 if(scoreA){
-  scoreFinla= "A"
+  scoreFinal= "A"
 }else if(scoreB){
-  scoreFinla= "B"
+  scoreFinal= "B"
 }else if(scoreC){
-  scoreFinla= "C"
+  scoreFinal= "C"
 }else if(scoreD){
-  scoreFinla= "D"
+  scoreFinal= "D"
 }else if(scoreF){
-  scoreFinla= "F"
+  scoreFinal= "F"
 }else{
-   scoreFinla= "Nota final invalida"
+   scoreFinal= "Nota final invalida"
 }
+  
 return scoreFinal
   }
 
+console.log(getScore(90))
+console.log(getScore(60))
+console.log(getScore(80))
+console.log(getScore(50))
