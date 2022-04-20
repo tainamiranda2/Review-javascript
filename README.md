@@ -11,8 +11,10 @@
 <p>6- Funções<p/>
 <p>7- Array<p/>
 <p>8- Métodos de manipulação de array</p>
-<p>9- Objeto<p/>
-<p>10- Eventos<p/>
+<p>9- Expressões regulares<p/>
+<p>10- Debbugs<p/>
+<p>11- Objeto<p/>
+<p>12- Eventos<p/>
 
  <h2>Html<h2/>
   
