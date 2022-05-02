@@ -4,7 +4,24 @@ console.log(document.body);
 
 console.log(document.boby);
 console.log(document.boby.childNodes)
-console.log(document.boby.childNodes[2]..childNodes)
+//console.log(document.boby.childNodes[2]..childNodes)
 
-//encontrando elementos
+//encontrando elementos id
+
+document.getElementById('alum-id');
+
+//encontrando class
+document.getElementsByClassName('alguma-class');
+//elementos por query
+console.log(documente.querySelector('#container-principal h1'));
+
+//elementos
+elementPai.insertBefore(novoelemente, elemente);
+
+//aterando elementos com appendChild
+
+let p =document.querySelector("#paragrafro-principal");
+
+let pai =p.parentNode;
+pai.appendChild(novoElemento);
 
