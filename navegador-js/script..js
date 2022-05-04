@@ -16,7 +16,7 @@ document.getElementsByClassName('alguma-class');
 console.log(documente.querySelector('#container-principal h1'));
 
 //elementos
-elementPai.insertBefore(novoelemente, elemente);
+elementPai.insertBefore(novoelemente, element);
 
 //aterando elementos com appendChild
 
@@ -25,3 +25,11 @@ let p =document.querySelector("#paragrafro-principal");
 let pai =p.parentNode;
 pai.appendChild(novoElemento);
 
+let element=document.querySelector('#titulo-principal');
+
+console.log(element.offseWidht); //modificando largura
+console.log(element.offsetHeight); //modificando altura
+
+let p= document.getElementById('p');
+
+p.style.color='red';
