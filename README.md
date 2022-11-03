@@ -16,6 +16,9 @@
 <p>11- Objeto<p/>
 <p>12- Eventos<p/>
 
+<h2>ES6</h2>
+<p></p>
+
  <h2>Html<h2/>
   
 <p>1 - Elementos<p/>
